@@ -1,4 +1,4 @@
-# Nimbus — Sample E-Commerce App
+# Comet — Sample E-Commerce App
 
 An original streetwear/apparel storefront built as a demo: React (Vite) frontend + Node.js/Express/MongoDB backend, JWT auth, cart/checkout, Stripe test-mode payment, and an admin panel.
 
